@@ -13,6 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align='center'><b>Hi 👋, I'm Angel Dahal</h1>
-<h4 align='center'>Harnessing the power of code, I craft intelligent machines, blending Machine Learning and backend expertise, hailing from the enchanting realm of Nepal.</h4>
-
 ---
